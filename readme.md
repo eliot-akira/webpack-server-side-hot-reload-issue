@@ -1,4 +1,9 @@
 
+```sh
+yarn
+yarn start
+```
+
 With Node 10.x, when you edit `src/server.js`, the server hot-reloads.
 
 With Node 11.x, hot-reload is not triggered.
